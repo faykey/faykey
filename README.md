@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @faykey
-- 👀 I’m interested in front end and back end web developing,also in creating games and apps
-- 🌱 I’m currently learning c language.
-- 🈴️ I'm currently a student of the alx software engineering program
+- <H1>👋 Hi, I’m Faykey </H1>
+- 👀 I am a Web developer and I build Mobile apps { I play games and run tests }
+
+- 🈴️ ALX SOFTWARE ENGINEERING '22
 - 📱Working on solidity 
 <!---
 faykey/faykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
